@@ -11,6 +11,7 @@ X(f) = 0.85
 
 // Code for part c
 
+
 // Code for part d
 
 f(X) = (Fa0*X/(-ra*V))-1
